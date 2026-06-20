@@ -7,7 +7,7 @@ The objective of this project is to explore the relationship between professiona
 This project reflects the fundamental workflow of a machine learning problem — from data loading to model training, prediction, and visualization.
 
 
-📂 Dataset Description
+-> Dataset Description
 
 The dataset used in this project contains two variables:
 
@@ -18,7 +18,7 @@ Salary – Dependent Variable
 The dataset is simple yet powerful in demonstrating how linear regression models work. It helps visualize how salary increases as experience grows, making it ideal for beginners in machine learning.
 
 
-🧠 Core Concepts Covered
+-> Core Concepts Covered
 
 This project covers important machine learning concepts such as:
 
@@ -37,7 +37,7 @@ Data Visualization
 Understanding Linear Relationships
 
 
-📈 Model Explanation
+-> Model Explanation
 
 Simple Linear Regression works by fitting a straight line through the data points that best represents the relationship between input and output variables.
 
@@ -60,7 +60,7 @@ The strength of the linear relationship
 The trend of salary growth over time
 
 
-🛠️ Tools & Technologies Used
+-> Tools & Technologies Used
 
 Python
 
@@ -77,7 +77,7 @@ Jupyter Notebook
 These tools are widely used in data science and machine learning workflows.
 
 
-🎯 Learning Outcomes
+-> Learning Outcomes
 
 Through this project, I gained a strong understanding of:
 
@@ -94,6 +94,6 @@ The practical workflow of a real-world ML problem
 This project serves as a foundational step toward more advanced topics like Multiple Linear Regression, Polynomial Regression, and other supervised learning algorithms.
 
 
-💡 Conclusion
+-> Conclusion
 
 This project demonstrates how even a simple machine learning model can uncover meaningful insights from data. It builds a strong foundation in regression analysis and practical ML implementation.
