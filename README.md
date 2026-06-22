@@ -1,11 +1,11 @@
-# Simple Linear Regression – Salary Prediction
+# Simple Linear Regression - Salary Prediction
 
 Predicting salary based on years of experience using a Simple Linear Regression model. Built as part of my machine learning fundamentals practice.
 
 
 ## Dataset
 
-- **Salary_Data.csv** — 30 records with two columns: Years of Experience and Salary
+- **Salary_Data.csv** - 30 records with two columns: Years of Experience and Salary
 
 
 ## What I Did
@@ -19,7 +19,7 @@ Predicting salary based on years of experience using a Simple Linear Regression 
 
 ## Results
 
-The model fits the data well — salary shows a strong positive linear relationship with years of experience. The regression line closely follows the actual data points on both training and test sets.
+The model fits the data well - salary shows a strong positive linear relationship with years of experience. The regression line closely follows the actual data points on both training and test sets.
 
 
 ## Tech Stack
